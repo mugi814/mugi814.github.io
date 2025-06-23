@@ -17,6 +17,10 @@ a {
   margin: 0 auto;
 }
 
+.logo{
+  padding: 20px;
+}
+
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
