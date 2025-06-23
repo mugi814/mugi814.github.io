@@ -84,10 +84,10 @@ header {
   z-index: 10;
 }
 
-.logo {
+/*.logo {
   width: 164px;
   margin-top: 20px;
-}
+}*/
 
 .header-left {
   float: left;
