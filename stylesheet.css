@@ -10,6 +10,10 @@ body {
 a {
   text-decoration: none;
 }
+.logo {
+  width: 100px;
+  margin-top: 20px;
+}
 
 .container {
   width: 100%;
@@ -84,10 +88,7 @@ header {
   z-index: 10;
 }
 
-.logo {
-  width: 100px;
-  margin-top: 20px;
-}
+
 
 .header-left {
   float: left;
