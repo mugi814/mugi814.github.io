@@ -271,4 +271,8 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+  
+  .footer-wrapper {
+  width: 100%;
+}
 }
