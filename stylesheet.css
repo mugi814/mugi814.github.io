@@ -19,8 +19,8 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
+  background-color: rgb(245,246,247);
   background-size: cover;
-  color: rgb(245,246,247);
   text-align: center;
 }
 
