@@ -239,13 +239,19 @@ footer {
 }
 
 @media all and (max-width: 670px) {
-  .header-right {
-    display: none;
+  .logo {
+    height: 50px;
+    width: 50px;
+    margin: 14px 0px;
   }
 
   .header-left h2 {
-  font-size: 16px;
-}
+    font-size: 16px;
+  }
+  
+  .header-right {
+    display: none;
+  }
 
   .menu-icon {
     display: block;
