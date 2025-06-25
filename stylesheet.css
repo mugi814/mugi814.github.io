@@ -93,8 +93,9 @@ header {
   float: left;
 }
 
-.header-left p {
+.header-left h2 {
   display: inline-block;
+  font-size: 20px;
 }
 
 .header-right {
