@@ -93,6 +93,10 @@ header {
   float: left;
 }
 
+.header-left p {
+  display: inline-block;
+}
+
 .header-right {
   float: right;
   margin-right: -25px;
