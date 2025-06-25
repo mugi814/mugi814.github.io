@@ -241,6 +241,10 @@ footer {
     display: none;
   }
 
+  .header-left h2 {
+  font-size: 16px;
+}
+
   .menu-icon {
     display: block;
   }
