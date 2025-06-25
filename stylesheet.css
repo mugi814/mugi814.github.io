@@ -95,6 +95,7 @@ header {
 
 .header-left h2 {
   display: inline-block;
+  color: rgb(19,64,117);
   font-size: 20px;
 }
 
