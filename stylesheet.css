@@ -97,6 +97,7 @@ header {
   display: inline-block;
   color: rgb(19,64,117);
   font-size: 20px;
+  margin: 4px 0px;
 }
 
 .header-right {
