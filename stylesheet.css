@@ -133,13 +133,13 @@ header {
   padding-left: 5%;
   padding-right: 5%;
   background-color: rgb(19,64,117);
+  color: rgb(245,246,247);
   text-align: center;
 }
 
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
-  color: rgb(245,246,247);
 }
 
 .heading h2 {
