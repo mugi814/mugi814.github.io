@@ -98,6 +98,7 @@ header {
   font-size: 20px;
   padding-left: 5px;
   float: right;
+  margin: 4px 0px;
 }
 
 .header-left p {
@@ -105,6 +106,7 @@ header {
   color: rgb(19,64,117);
   font-size: 16px;
   float: right;
+  margin: 4px 0px;
 }
 
 .header-right {
