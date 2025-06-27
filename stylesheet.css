@@ -98,7 +98,7 @@ header {
   font-size: 20px;
   padding-left: 5px;
   float: right;
-  line-height: 65px;
+  margin: 10px 0px;
 }
 
 .header-left p {
@@ -106,7 +106,7 @@ header {
   color: rgb(19,64,117);
   font-size: 16px;
   float: right;
-  line-height: 65px;
+  margin: 10px 0px;
 }
 
 .header-right {
