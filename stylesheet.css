@@ -43,17 +43,18 @@ a {
   margin-bottom: 20px;
 }
 
-.signup {
-  background-color: #239b76;
-}
-
-.facebook {
+.today {
   background-color: #3b5998;
   margin-right: 10px;
 }
 
-.twitter {
+.best {
   background-color: #55acee;
+  margin-right: 10px;
+}
+
+.contact {
+  background-color: #239b76;
 }
 
 .btn {
