@@ -107,7 +107,7 @@ header {
   color: rgb(19,64,117);
   font-size: 16px;
   float: right;
-  margin: 20px 0px;
+  margin: 5px 0px;
 }
 
 .header-right {
@@ -139,9 +139,11 @@ header {
 }
 
 .top {
-  height: 100px;
-  width: 100px;
+  height: 200px;
+  width: 200px;
+  border-radius: 4px;
   float: left;
+  padding-left: 50px;
 }
 
 .heading {
