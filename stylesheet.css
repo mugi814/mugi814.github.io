@@ -138,6 +138,10 @@ header {
   text-align: center;
 }
 
+.top {
+  float: left;
+}
+
 .heading {
   padding-top: 80px;
   padding-bottom: 50px;
