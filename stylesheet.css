@@ -282,6 +282,11 @@ footer {
     display: block;
   }
 
+  .top {
+    padding-left: 10px;
+    width: 100px;
+  }
+
   .top-wrapper .btn {
     width: 100%;
   }
