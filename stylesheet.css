@@ -322,10 +322,12 @@ footer {
 
   .child {
     width: 100px;
+    clear: right;
   }
 
   .new {
     width: 100px;
+    clear: left;
   }
   
   .lesson {
