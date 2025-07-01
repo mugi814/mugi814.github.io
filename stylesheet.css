@@ -27,16 +27,19 @@ a {
   color: rgb(19,64,117);
   font-size: 45px;
   letter-spacing: 5px;
+  float: left;
 }
 
 .top-wrapper p {
   color: rgb(19,64,117);
   font-size: 16px;
   margin-bottom: 40px;
+  float: left;
 }
 
 .btn-wrapper {
   text-align: center;
+  float: left;
 }
 
 .btn-wrapper p {
