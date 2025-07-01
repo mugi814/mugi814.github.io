@@ -308,6 +308,10 @@ footer {
     font-size: 14px;
   }
 
+    .topic image {
+    width: 100px;
+  }
+  
   .lesson {
     width: 100%;
   }
