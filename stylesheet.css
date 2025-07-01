@@ -150,6 +150,12 @@ header {
   padding-bottom: 50px;
 }
 
+.topic image {
+  width: 300px;
+  border-radius: 10px;
+  float: left;
+}
+
 .lesson {
   float: left;
   width: 25%;
