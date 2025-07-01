@@ -130,7 +130,7 @@ header {
 
 .topic-wrapper {
   height: 580px;
-  padding-bottom: 80px;
+  padding-bottom: 130px;
   padding-left: 5%;
   padding-right: 5%;
   background-color: rgb(19,64,117);
@@ -159,7 +159,6 @@ header {
 .new {
   width: 250px;
   border-radius: 10px;
-  padding-bottom: 100px;
   float: left;
 }
 
