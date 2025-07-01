@@ -321,6 +321,14 @@ footer {
     font-size: 14px;
   }
 
+  .child {
+    display: block;
+  }
+
+  .new {
+    display: block;
+  }
+
   .clear{
     clear: left;
   }
