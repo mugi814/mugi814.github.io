@@ -162,6 +162,10 @@ header {
   float: left;
 }
 
+.topic {
+  padding-bottom: 30px;
+}
+
 .lesson {
   float: left;
   width: 25%;
