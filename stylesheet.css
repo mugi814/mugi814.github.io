@@ -153,13 +153,13 @@ header {
 .child {
   width: 200px;
   border-radius: 10px;
-  float: left;
+  float: right;
 }
 
 .new {
   width: 200px;
   border-radius: 10px;
-  float: right;
+  float: left;
 }
 
 .lesson {
