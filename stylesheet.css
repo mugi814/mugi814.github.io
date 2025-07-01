@@ -139,7 +139,7 @@ header {
 }
 
 .top {
-  width: 200px;
+  width: 500px;
   border-radius: 4px;
   float: left;
   padding-left: 50px;
@@ -266,10 +266,12 @@ footer {
 
   .header-left h2 {
     font-size: 16px;
+    margin: 5px 0px;
   }
 
   .header-left p {
     font-size: 12px;
+    margin: 5px 0px;
   }
   
   .header-right {
