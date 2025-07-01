@@ -150,10 +150,16 @@ header {
   padding-bottom: 50px;
 }
 
-.image {
-  width: 100px;
+.child {
+  width: 200px;
   border-radius: 10px;
   float: left;
+}
+
+.new {
+  width: 200px;
+  border-radius: 10px;
+  float: right;
 }
 
 .lesson {
@@ -310,7 +316,11 @@ footer {
     font-size: 14px;
   }
 
-  .image {
+  .child {
+    width: 100px;
+  }
+
+  .new {
     width: 100px;
   }
   
