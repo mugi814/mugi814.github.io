@@ -128,7 +128,7 @@ header {
   background-color: rgba(255,255,255,0.3);
 }
 
-.lesson-wrapper {
+.topic-wrapper {
   height: 580px;
   padding-bottom: 80px;
   padding-left: 5%;
@@ -334,8 +334,8 @@ footer {
     width: 100%;
   }
 
-  .lesson-wrapper {
-    height: 1700px;
+  .topic-wrapper {
+    height: 900px;
   }
 
   .message-wrapper .btn {
