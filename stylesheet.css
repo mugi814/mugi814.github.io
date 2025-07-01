@@ -19,6 +19,8 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
+  padding-left: 5%;
+  padding-right: 5%;
   background-color: rgb(245,246,247);
   text-align: center;
 }
@@ -142,7 +144,6 @@ header {
   width: 300px;
   border-radius: 10px;
   float: left;
-  padding-left: 50px;
 }
 
 .heading {
