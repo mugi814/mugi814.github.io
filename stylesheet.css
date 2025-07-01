@@ -320,13 +320,7 @@ footer {
     font-size: 14px;
   }
 
-  .child {
-    width: 100px;
-    clear: right;
-  }
-
-  .new {
-    width: 100px;
+  .clear{
     clear: left;
   }
   
