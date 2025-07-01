@@ -140,7 +140,7 @@ header {
 
 .top {
   width: 300px;
-  border-radius: 4px;
+  border-radius: 10px;
   float: left;
   padding-left: 50px;
 }
