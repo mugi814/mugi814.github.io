@@ -322,19 +322,15 @@ footer {
   .top-wrapper p {
     font-size: 14px;
   }
-
-  .text {
-    display: block;
-  }
   
   .child {
     width: 100px;
-    display: block;
+    float: none;
   }
   
   .new {
     width: 120px;
-    display: block;
+    floart: none;
   }
   
   .lesson {
