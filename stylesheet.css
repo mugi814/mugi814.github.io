@@ -165,7 +165,6 @@ header {
 
 .text p {
   padding-bottom: 30px;
-  text-align: left;
 }
 
 .lesson {
@@ -322,7 +321,7 @@ footer {
   .top-wrapper p {
     font-size: 14px;
   }
-  
+
   .child {
     width: 100px;
     float: none;
@@ -331,6 +330,10 @@ footer {
   .new {
     width: 120px;
     float: none;
+  }
+
+  .text p {
+    text-align: left;
   }
   
   .lesson {
