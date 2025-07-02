@@ -163,9 +163,9 @@ header {
   float: left;
 }
 
-.topic {
+.topic p {
   padding-bottom: 30px;
-  text-align: center;
+  text-align: left;
 }
 
 .lesson {
