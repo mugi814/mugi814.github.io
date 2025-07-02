@@ -154,11 +154,13 @@ header {
 .child {
   width: 200px;
   border-radius: 10px;
+  float: right;
 }
 
 .new {
   width: 250px;
   border-radius: 10px;
+  float: left;
 }
 
 .topic {
