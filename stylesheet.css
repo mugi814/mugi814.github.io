@@ -154,13 +154,11 @@ header {
 .child {
   width: 200px;
   border-radius: 10px;
-  float: right;
 }
 
 .new {
   width: 250px;
   border-radius: 10px;
-  float: left;
 }
 
 .topic {
@@ -247,6 +245,14 @@ footer {
 }
 
 @media all and (max-width: 1000px) {
+  .child {
+  float: right;
+  }
+
+  .new {
+    float: left;
+  }
+  
   .lesson {
     width: 50%;
     margin-bottom: 50px;
@@ -262,6 +268,14 @@ footer {
 }
 
 @media all and (max-width: 750px) {
+  .child {
+    float: right;
+  }
+
+  .new {
+    float: left;
+  }
+  
   .top-wrapper h1 {
     font-size: 32px;
   }
@@ -310,6 +324,8 @@ footer {
 
   .top-wrapper {
     text-align: left;
+    padding-left: 2%;
+    padding-right: 2%;
   }
 
   .top-wrapper h1 {
@@ -333,10 +349,6 @@ footer {
   .new {
     width: 120px;
     display: block;
-  }
-
-  .clear{
-    clear: left;
   }
   
   .lesson {
