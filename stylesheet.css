@@ -295,7 +295,6 @@ footer {
   }
 
   .top {
-    padding-left: 10px;
     padding-right: 5px;
     width: 100px;
   }
@@ -327,10 +326,12 @@ footer {
   }
   
   .child {
+    width: 100px;
     display: block;
   }
   
   .new {
+    width: 120px;
     display: block;
   }
 
