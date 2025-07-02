@@ -247,14 +247,6 @@ footer {
 }
 
 @media all and (max-width: 1000px) {
-  .child {
-  float: right;
-  }
-
-  .new {
-    float: left;
-  }
-  
   .lesson {
     width: 50%;
     margin-bottom: 50px;
@@ -270,14 +262,6 @@ footer {
 }
 
 @media all and (max-width: 750px) {
-  .child {
-    float: right;
-  }
-
-  .new {
-    float: left;
-  }
-  
   .top-wrapper h1 {
     font-size: 32px;
   }
